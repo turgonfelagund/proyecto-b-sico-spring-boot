@@ -1,4 +1,4 @@
-# proyecto-b-sico-spring-boot
+# proyecto-sencillo-spring-boot
 
 Proyecto en el que se aprenden conceptos básicos de Spring Boot:
 
