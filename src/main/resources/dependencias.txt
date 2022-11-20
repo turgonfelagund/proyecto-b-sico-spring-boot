@@ -1,0 +1,5 @@
+Harán falta las siguientes dependencias
+
+Spring web
+Spring Data jpa
+MySQL Driver (para conectar con BD mySQL)
